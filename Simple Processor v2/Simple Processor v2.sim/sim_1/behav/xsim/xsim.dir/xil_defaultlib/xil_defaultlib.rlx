@@ -1,0 +1,7 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/user/Desktop/3Spring/CS 223/Labs/Project/Code v2/Simple Processor v2.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/Users/user/Desktop/3Spring/CS 223/Labs/Project/Code v2/Simple Processor v2.srcs/sim_1/imports/new/testbenches.sv,1619949411,systemVerilog,,,,cntTest;controllerTest;dmTest;imTest;nextLogicTest;outLogicTest;prioTest;regTest;rfTest;simpleProcessorSimTest;simpleProcessorTest,,,,,,,,
+C:/Users/user/Desktop/3Spring/CS 223/Labs/Project/Code v2/Simple Processor v2.srcs/sources_1/new/design.sv,1619963776,systemVerilog,C:/Users/user/Desktop/3Spring/CS 223/Labs/Project/Code v2/Simple Processor v2.srcs/sim_1/imports/new/testbenches.sv,C:/Users/user/Desktop/3Spring/CS 223/Labs/Project/Code v2/Simple Processor v2.srcs/sim_1/imports/new/testbenches.sv,,$unit_design_sv;alu;clockDivider;controller;controllerTop;counter;dataMemory;datapath;datapathSim;debouncer;instructionMemory;mux;nextStateLogic;outputLogic;priorityEncoder;register;registerFile;sevenSegmentDisplay;simpleProcessor;simpleProcessorSim;top,,,,,,,,
