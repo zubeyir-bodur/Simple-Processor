@@ -40,7 +40,7 @@ The 4-bit data being read/stored is shown in the display. For instance, if the i
 00-4
 ````
 ### Add & Sub
-The 4-bit data being added and substracted, and the result of the summation/substraction is shown in the display. For instance, if the instruction reads 5 and 7 from the register file and writes it back to any place in the register file, the display would show:
+The 4-bit data being added and substracted, and the result of the summation/substraction is shown in the display. For instance, if the add instruction reads 5 and 7 from the register file and writes it back to any place in the register file, the display would show:
 ````
 57-C
 ````
