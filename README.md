@@ -59,7 +59,7 @@ The 4-bit data being added and substracted, and the result of the summation/subs
 ![HLSM diagram](https://github.com/zubeyir-bodur/Simple-Processor/blob/master/img/HLSM%20diagram.vpd%20(1).png)
 
 ### Reduced FSM Diagram
-![Controller FSM](https://github.com/zubeyir-bodur/Simple-Processor/blob/master/img/HLSM%20diagram.vpd%20(1).png)
+![Controller FSM](https://github.com/zubeyir-bodur/Simple-Processor/blob/master/img/Controller%20FSM.vpd%20(1).png)
 
 ### Block Diagrams
 
