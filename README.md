@@ -1,6 +1,15 @@
 # Simple Processor
 
-A simple, multicycle processor with 4 instructions. Can be implemented in Basys3 FPGA with button a debouncer and a simple display. The processor processes 4-bit data in a 8x4 register file, and a 16x4 data memory.
+A simple, multicycle processor with 4 instructions. Can be implemented in Basys3 FPGA with button a debouncer and a simple display. The processor processes 4-bit data in a 8x4 register file, and a 16x4 data memory. Data memory and the register file are initialized with the following data:
+````
+Data Memory := {4'hf, 4'he, 4'hd, 4'hc,
+                4'hb, 4'ha, 4'h9, 4'h8,
+                4'h7, 4'h6, 4'h5, 4'h4,
+                4'h3, 4'h2, 4'h1, 4'h0} // D[i] = i, for i ranging from 0 to 15, where i is a 4-bit number
+
+Register File := {8{4'h0}} // all zeros
+
+````
 
 ## Instruction Set
 Instructions used in the processor are 12 bits. The first three bits represent the instruction and may be called as *op*.
